@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
+<h1 align="center">Hi 👋, I'm Suyuti</h1>
+<h3 align="center">Full Stack Develeop based out of Istanbul</h3>
 
 <!--
 **suyuti/suyuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
